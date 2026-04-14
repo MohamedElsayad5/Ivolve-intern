@@ -8,4 +8,4 @@ build
 ![Build](screenshots/build.png)
 
 run
-![Run](screenshots/run.png)
+![Run](screenshots/run.png)cd ~/Ivolve-intern
